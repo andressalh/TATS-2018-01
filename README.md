@@ -11,7 +11,7 @@
 - [Gabriel de Carli](https://github.com/GabrieldeCarli) [respostas](https://github.com/GabrieldeCarli/TATS-respostas)
 - [lua Ivo Machado](https://github.com/luaivo14) [respostas*](https://github.com/luaivo14/-TATS-respostas)
 - [Lucas Coelho](https://github.com/lucasfcoelho1) [respostas*](https://github.com/lucasfcoelho1/TATS-Respostas)
-- [Lucas Jacinto](https://github.com/lucasjcs) [respostas*](https://github.com/lucasjcs/atividade02)
+- [Lucas Jacinto](https://github.com/lucasjcs) [respostas*](https://github.com/lucasjcs/TATS-Respostas)
 - [Josiel Faleiros Alves](https://github.com/JosielFaleiros) [respostas](https://github.com/JosielFaleiros/TATS-respostas)
 - [Luiz Guilherme Devide](https://github.com/luizdevide) [respostas](https://github.com/luizdevide/TATS-respostas)
 - [Rafael Santos](https://github.com/rafaelnsantos) [respostas](https://github.com/rafaelnsantos/TATS-respostas)
