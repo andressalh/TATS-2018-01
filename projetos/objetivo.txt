@@ -1,0 +1,8 @@
+
+Testes em uma aplicações mobile utilizando UIAutomator.
+
+Descrição: Realizar testes automatizados em uma aplicação mobile (plataforma Android) open source (K-9 Mail)
+através do framework de testes UIAutomator. A IDE Android Studio e o emulador de dispositivos móveis,
+disponibilizado pela mesma, tambem serão utilizados. Para inspeção de elementos da interface do usuário será
+utilizado o UIAutomator Viewer. Há a possibilidade de utilizar a ferramenta de apoio para teste baseado em modelo,
+a FourMA.
