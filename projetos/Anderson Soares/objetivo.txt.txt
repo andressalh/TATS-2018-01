@@ -1,1 +1,9 @@
-TODO
+Teste em uma aplicaçao movél
+
+
+Gostaria de realizar teste no meu TCC, um aplicativo movél para divulgação e
+e gerenciamento de eventos.
+
+De acordo com o plano de ensino no mês de abril será apresentado teste em 
+aplicações movéis e ferreentas para o mesmo. Gostaria de aplicar o aprendizado da
+matéria no Trabalho de conclusão de Curso.
