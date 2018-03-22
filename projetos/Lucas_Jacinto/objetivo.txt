@@ -1,1 +1,3 @@
-TODO.
+Gostaria de realizar o projeto em cima de uma aplicação JavaScript (nodeJS)
+Não possuo muito conhecimento em testes, mas gostaria de algo relacionado a testes de aplicações web
+ 
