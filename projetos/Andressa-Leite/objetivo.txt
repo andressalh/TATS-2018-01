@@ -1,1 +1,3 @@
-TODO
+Ideia para o projeto
+
+gostaria de realizar o teste no meu tcc, estou usando o visual studio na lingaguagem c# e o kinect.
