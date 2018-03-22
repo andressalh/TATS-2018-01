@@ -1,1 +1,7 @@
-TODO
+*Ideia 1: Teste em aplicativo mobile
+
+Há um projeto para a disciplina de programação movel em conjunto com a disciplina de web 2, onde será desenvolvido um aplicativo que usará servlets
+
+*Ideia 2: teste para manutenção de um software
+
+Fazer a manutenção de um software (desktop) que não foi desenvolvido por mim, mas me deram os codigos fonte para fazer a manutenção.
