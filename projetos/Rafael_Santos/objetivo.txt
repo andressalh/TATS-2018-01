@@ -9,3 +9,5 @@ Site que utiliza api do servidor acima para mostrar Leaderboards dos jogos.
 https://github.com/memory-cloud/leaderboard-react
 https://travis-ci.org/memory-cloud/leaderboard-react
 https://sonarcloud.io/dashboard?id=leaderboard
+
+As aplicações já estão funcionais? Todas em js?

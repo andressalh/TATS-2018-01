@@ -5,3 +5,5 @@ atrav�s do framework de testes UIAutomator. A IDE Android Studio e o emulador 
 disponibilizado pela mesma, tambem ser�o utilizados. Para inspe��o de elementos da interface do usu�rio ser�
 utilizado o UIAutomator Viewer. H� a possibilidade de utilizar a ferramenta de apoio para teste baseado em modelo,
 a FourMA.
+
+K-9 foi importado e compilado corretamente no Android Studio?

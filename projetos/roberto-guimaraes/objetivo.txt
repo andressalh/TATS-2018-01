@@ -8,6 +8,8 @@ Teste de um ecommerce
 
 - Um sistema de ecommerce (Ex: americanas.com), será testado utilizando tecnologias como webdriver por meio de junit. Serão identificadas funcionalidades (passo a passo do usuário) do site que serão gerados os casos de teste.
 
+Endo:
+- Usar um site de terceiros não é uma boa ideia.
 
 
                          Ideia2
@@ -16,4 +18,5 @@ Teste de um app feito por mim por meio de um curso online
 
 - Serão gerados casos de teste desse app que fiz, o app não é complexo mas funciona, seria utilizado junit e o mockito para testar métodos e saídas.
 
+- Qual a tecnologia usada?
 

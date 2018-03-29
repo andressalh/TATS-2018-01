@@ -5,3 +5,4 @@ Link para o projeto: https://github.com/nefestor/Desafio
 =======
 TO DO
 
+- A aplicação é simples o suficiente? Existe suporte a testes automatizados para o TypeScript?

@@ -1,4 +1,6 @@
 Opcao1: Desenvolver teste em uma aplicação mobile, desenvolvida no semestre passado na disciplina de Programação de Dispositivos Moveis.
 O software realizava o cadastro de camisas esportivas, ideal para colecionadores.
 
+Qual a complexidade da aplicação móvel? Quantas telas, quantas LoC? Qual a tecnologia utilizada?
+
 Opcao2: Realizar testes em uma aplicação Web, porem ainda nao foi definido o software.

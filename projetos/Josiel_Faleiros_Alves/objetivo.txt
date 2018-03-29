@@ -1,3 +1,5 @@
 Teste em uma aplicação web
 
 Testar uma aplicação web desenvolvida em nodejs, usando ferramentas como mocha, travis e sonarcloud.
+
+- A aplicação já está implementada?

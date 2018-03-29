@@ -1,1 +1,5 @@
-To Do
+Teste em classes de conexão entre linguagens de programação e o NoSQL.
+
+- Classes em que linguagem de programação?
+
+- Qual o objetivo? Avaliar o desempenho? Testar a integração com um BD NoSQL?

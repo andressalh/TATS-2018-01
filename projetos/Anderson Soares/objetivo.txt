@@ -7,3 +7,8 @@ e gerenciamento de eventos.
 De acordo com o plano de ensino no mês de abril será apresentado teste em 
 aplicações movéis e ferreentas para o mesmo. Gostaria de aplicar o aprendizado da
 matéria no Trabalho de conclusão de Curso.
+
+Endo: 
+- Qual a tecnologia/linguagem de programação usada?
+
+- Qual o estágio atual do aplicativo? Já está funcionando?

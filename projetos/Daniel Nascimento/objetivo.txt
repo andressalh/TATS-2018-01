@@ -2,6 +2,12 @@
 
 Há um projeto para a disciplina de programação movel em conjunto com a disciplina de web 2, onde será desenvolvido um aplicativo que usará servlets
 
+Como o aplicativo não está pronto, isso seria um empedimento.
+
 *Ideia 2: teste para manutenção de um software
 
 Fazer a manutenção de um software (desktop) que não foi desenvolvido por mim, mas me deram os codigos fonte para fazer a manutenção.
+
+- Qual a tecnologia (Java + Swing)?
+
+

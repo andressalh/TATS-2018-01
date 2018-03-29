@@ -1,1 +1,3 @@
 Utilizar o que será feito no TCC2. Teste automzatizado em plataformas mobile que foram desenvolvidas utilizando frameworks de desenvolvimento multiplataforma.
+
+Qual o estágio atual? Quais as ferramentas?
