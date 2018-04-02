@@ -1,3 +1,5 @@
-TODO
+O projeto que será utilizado no projeto da disciplina será o meu tcc.
 
-- Alguma definição?
+Onde o mesmo será desenvolvido utilizando o kinect para reconhecer os pontos faciais, alguns desses pontos serão utilizados em um algoritmo para identificar o formato do rosto da pessoa utilizando o conceito de visagismo. Será utilizado o Visual Studio e a linguagem será em c#.
+
+Nesse projeto será realizado o teste unidade, teste de integração e teste de interface. 
